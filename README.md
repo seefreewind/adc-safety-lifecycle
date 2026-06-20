@@ -13,6 +13,11 @@ This deposit contains public analytic materials for the manuscript:
 - `protocol/`: cohort definition, extraction guide, comparability rules, audit reports, visual QA reports, and execution status notes.
 - `file_manifest.txt`: full file listing for this deposit package.
 
+## Repository and Archive
+
+- GitHub repository: https://github.com/seefreewind/adc-safety-lifecycle
+- Zenodo record: https://zenodo.org/records/20768613
+
 ## Important Boundary
 
 This deposit intentionally excludes copyrighted full-text journal articles, publisher supplementary PDFs, FDA source PDFs, rendered manuscript page images, and any local raw document folders. The included tables are derived analytic outputs and audit records intended to support reproducibility of the reported aggregate analyses.

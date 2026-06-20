@@ -2,6 +2,8 @@
 
 ## 建议上传方式
 
+GitHub 仓库已建立：`https://github.com/seefreewind/adc-safety-lifecycle`
+
 1. 登录 Zenodo。
 2. 新建 Upload。
 3. 上传本文件夹打包后的 zip：`adc_safety_lifecycle_zenodo_v0_1.zip`，或在 Zenodo 记录 `https://zenodo.org/records/20768613` 中更新文件版本。
