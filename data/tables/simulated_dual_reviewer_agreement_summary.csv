@@ -1,0 +1,3 @@
+domain,record_count,simulated_raw_agreement_percent,simulated_unweighted_kappa,use_boundary
+jointly_reported_strata,53,96.2,0.92,Internal simulation only; not reportable as real independent human reviewer agreement.
+analysis_ready_pairs,28,96.4,0.91,Internal simulation only; not reportable as real independent human reviewer agreement.

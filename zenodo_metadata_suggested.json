@@ -1,0 +1,27 @@
+{
+  "title": "Public analytic materials for: Cross-Source Comparability of Aggregate Safety Outcomes in Pivotal Antibody-Drug Conjugate Trials: A Regulatory Evidence Study",
+  "upload_type": "dataset",
+  "creators": [
+    {
+      "name": "Lin, Da",
+      "affiliation": "Department of Ophthalmology, The Second Affiliated Hospital of Wenzhou Medical University"
+    },
+    {
+      "name": "Zhang, Yu",
+      "affiliation": "Department of Ophthalmology, The Second Affiliated Hospital of Wenzhou Medical University"
+    }
+  ],
+  "description": "Derived analytic tables, comparability decisions, audit outputs, figure source files, and analysis code for a cross-source pharmacovigilance and regulatory evidence study of safety outcome reporting across publications, ClinicalTrials.gov, and FDA reviews of pivotal antibody-drug conjugate trials. Copyrighted full-text articles, publisher supplementary files, and FDA source PDFs are not redistributed.",
+  "keywords": [
+    "antibody-drug conjugate",
+    "pharmacovigilance",
+    "drug safety",
+    "ClinicalTrials.gov",
+    "FDA review",
+    "adverse events",
+    "regulatory science",
+    "evidence synthesis"
+  ],
+  "license": "cc-by-4.0",
+  "access_right": "open"
+}

@@ -1,0 +1,4 @@
+analysis_set,trial_count,pair_count,pair_weighted_mean_abs_diff_pp,trial_weighted_mean_abs_diff_pp,trial_weighted_median_abs_diff_pp,trial_weighted_max_trial_mean_abs_diff_pp,trial_mean_values_pp
+primary_candidate,4,21,0.26,0.58,0.26,1.80,TRIAL002:0.08;TRIAL003:0.43;TRIAL004:1.80;TRIAL014:0.01
+sensitivity_candidate,2,7,3.91,3.62,3.62,5.64,TRIAL001:1.60;TRIAL002:5.64
+all_confirmed,5,28,1.17,1.06,1.47,1.80,TRIAL001:1.60;TRIAL002:1.47;TRIAL003:0.43;TRIAL004:1.80;TRIAL014:0.01

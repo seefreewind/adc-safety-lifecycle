@@ -1,0 +1,4 @@
+source_pair,jointly_reported_strata,directly_comparable_strata,directly_comparable_percent,wilson_95_ci
+FDA review vs ClinicalTrials.gov,9,2,22.2,6.3-54.7
+publication vs ClinicalTrials.gov,22,2,9.1,2.5-27.8
+publication vs FDA review,22,13,59.1,38.7-76.7

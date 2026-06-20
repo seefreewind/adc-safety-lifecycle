@@ -1,0 +1,7 @@
+analysis_tier,count_rounding_concordance_class,comparison_count,percent_within_tier
+primary_candidate,exact_count_and_percentage_concordance,13,61.9
+primary_candidate,numerically_close_but_not_count_confirmed,3,14.3
+primary_candidate,rounding_compatible_concordance,1,4.8
+primary_candidate,same_count_denominator_percentage_display_difference,4,19.0
+sensitivity_candidate,discordant_or_sensitivity_difference,5,71.4
+sensitivity_candidate,numerically_close_but_not_count_confirmed,2,28.6

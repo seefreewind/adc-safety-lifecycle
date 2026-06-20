@@ -1,0 +1,4 @@
+item,status,manuscript_handling
+independent_duplicate_adjudication,not_performed,Report structured audit trail and sensitivity analyses; do not report inter-reviewer agreement.
+cohen_kappa,not_applicable,Do not calculate or report Cohen's kappa because no independent reviewer columns were collected.
+ctgov_incremental_core_candidates,manual_extension_queue_only,Do not merge the 9 CT.gov incremental core candidates into the primary analysis without future structured review.

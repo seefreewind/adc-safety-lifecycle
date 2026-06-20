@@ -1,0 +1,29 @@
+simulation_record_id,comparison_id,trial_id,ae_concept,source_pair,current_analysis_tier,absolute_percentage_difference,simulated_reviewer_A_decision,simulated_reviewer_B_decision,simulated_agreement,resolution_for_stress_test,simulation_note
+SIMPAIR001,FULLCOMP000052,TRIAL002,adverse_event_leading_to_discontinuation,publication vs FDA review,primary_candidate,0.00,primary,primary,yes,primary,Simulated reviewers agree.
+SIMPAIR002,FULLCOMP000055,TRIAL002,adverse_event_leading_to_discontinuation,publication vs FDA review,primary_candidate,0.00,primary,primary,yes,primary,Simulated reviewers agree.
+SIMPAIR003,FULLCOMP000056,TRIAL002,any_adverse_event,publication vs FDA review,primary_candidate,0.00,primary,primary,yes,primary,Simulated reviewers agree.
+SIMPAIR004,FULLCOMP000059,TRIAL002,any_adverse_event,publication vs FDA review,primary_candidate,0.00,primary,primary,yes,primary,Simulated reviewers agree.
+SIMPAIR005,FULLCOMP000060,TRIAL002,dose_interruption,publication vs FDA review,primary_candidate,0.00,primary,primary,yes,primary,Simulated reviewers agree.
+SIMPAIR006,FULLCOMP000063,TRIAL002,dose_interruption,publication vs FDA review,primary_candidate,0.00,primary,primary,yes,primary,Simulated reviewers agree.
+SIMPAIR007,FULLCOMP000064,TRIAL002,dose_reduction,publication vs FDA review,primary_candidate,0.00,primary,primary,yes,primary,Simulated reviewers agree.
+SIMPAIR008,FULLCOMP000067,TRIAL002,dose_reduction,publication vs FDA review,primary_candidate,0.00,primary,primary,yes,primary,Simulated reviewers agree.
+SIMPAIR009,FULLCOMP000073,TRIAL002,fatal_adverse_event,publication vs FDA review,primary_candidate,0.00,primary,primary,yes,primary,Simulated reviewers agree.
+SIMPAIR010,FULLCOMP000081,TRIAL002,fatal_adverse_event,publication vs FDA review,primary_candidate,0.00,primary,primary,yes,primary,Simulated reviewers agree.
+SIMPAIR011,FULLCOMP000111,TRIAL002,serious_adverse_event,publication vs FDA review,primary_candidate,0.00,primary,primary,yes,primary,Simulated reviewers agree.
+SIMPAIR012,FULLCOMP000119,TRIAL002,serious_adverse_event,publication vs FDA review,primary_candidate,1.00,primary,primary,yes,primary,Simulated reviewers agree.
+SIMPAIR013,FULLCOMP000131,TRIAL003,any_adverse_event,publication vs FDA review,primary_candidate,0.40,primary,primary,yes,primary,Simulated reviewers agree.
+SIMPAIR014,FULLCOMP000132,TRIAL003,any_adverse_event,publication vs FDA review,primary_candidate,0.00,primary,primary,yes,primary,Simulated reviewers agree.
+SIMPAIR015,FULLCOMP000137,TRIAL003,fatal_adverse_event,publication vs FDA review,primary_candidate,0.80,primary,primary,yes,primary,Simulated reviewers agree.
+SIMPAIR016,FULLCOMP000143,TRIAL003,grade_3_or_higher_adverse_event,publication vs FDA review,primary_candidate,0.40,primary,primary,yes,primary,Simulated reviewers agree.
+SIMPAIR017,FULLCOMP000144,TRIAL003,grade_3_or_higher_adverse_event,publication vs FDA review,primary_candidate,0.20,primary,sensitivity,no,retain_current_project_classification,Simulated reviewer B downgraded this primary pair to sensitivity in the stress test.
+SIMPAIR018,FULLCOMP000146,TRIAL003,serious_adverse_event,ClinicalTrials.gov vs FDA review,primary_candidate,0.80,primary,primary,yes,primary,Simulated reviewers agree.
+SIMPAIR019,FULLCOMP000150,TRIAL004,adverse_event_leading_to_discontinuation,publication vs FDA review,primary_candidate,1.80,primary,primary,yes,primary,Simulated reviewers agree.
+SIMPAIR020,FULLCOMP000259,TRIAL014,serious_adverse_event,publication vs ClinicalTrials.gov,primary_candidate,0.00,primary,primary,yes,primary,Simulated reviewers agree.
+SIMPAIR021,FULLCOMP000262,TRIAL014,serious_adverse_event,publication vs ClinicalTrials.gov,primary_candidate,0.03,primary,primary,yes,primary,Simulated reviewers agree.
+SIMPAIR022,FULLCOMP000003,TRIAL001,any_adverse_event,publication vs FDA review,sensitivity_candidate,0.10,sensitivity,sensitivity,yes,sensitivity,Simulated reviewers agree.
+SIMPAIR023,FULLCOMP000005,TRIAL001,dose_interruption,publication vs FDA review,sensitivity_candidate,2.00,sensitivity,sensitivity,yes,sensitivity,Simulated reviewers agree.
+SIMPAIR024,FULLCOMP000040,TRIAL001,serious_adverse_event,publication vs FDA review,sensitivity_candidate,2.70,sensitivity,sensitivity,yes,sensitivity,Simulated reviewers agree.
+SIMPAIR025,FULLCOMP000106,TRIAL002,serious_adverse_event,publication vs ClinicalTrials.gov,sensitivity_candidate,5.26,sensitivity,sensitivity,yes,sensitivity,Simulated reviewers agree.
+SIMPAIR026,FULLCOMP000114,TRIAL002,serious_adverse_event,publication vs ClinicalTrials.gov,sensitivity_candidate,6.53,sensitivity,sensitivity,yes,sensitivity,Simulated reviewers agree.
+SIMPAIR027,FULLCOMP000120,TRIAL002,serious_adverse_event,ClinicalTrials.gov vs FDA review,sensitivity_candidate,5.26,sensitivity,sensitivity,yes,sensitivity,Simulated reviewers agree.
+SIMPAIR028,FULLCOMP000123,TRIAL002,serious_adverse_event,ClinicalTrials.gov vs FDA review,sensitivity_candidate,5.53,sensitivity,sensitivity,yes,sensitivity,Simulated reviewers agree.

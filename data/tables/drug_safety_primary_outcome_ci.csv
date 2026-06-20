@@ -1,0 +1,2 @@
+metric,numerator,denominator,percent,wilson_95_ci_low_percent,wilson_95_ci_high_percent,trial_cluster_bootstrap_95_ci_low_percent,trial_cluster_bootstrap_95_ci_high_percent,bootstrap_reps
+stratum_level_direct_comparability,17,53,32.1,21.1,45.5,8.6,51.6,10000

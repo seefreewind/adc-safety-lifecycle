@@ -1,0 +1,9 @@
+dimension,primary_comparable,sensitivity_only,non_comparable
+Trial,Same trial,Not applicable,Different trials
+Treatment arm/dose,Same treatment arm and dose cohort,Documented pooling or cohort alignment with the same ADC regimen,Different treatment arms or dose cohorts
+Analysis population,Same safety population,Trial-specific population compared with a documented broader regulatory safety population,Clearly different or insufficiently described populations
+Denominator,Identical or inferably identical,Documented denominator difference with same arm and interpretable population relationship,Unexplained or large denominator difference
+Safety concept,Same aggregate safety concept,Closely related but not identical concept,Different safety concepts
+Grade/seriousness,Same grade or seriousness definition,Definition not fully explicit but no identified conflicting grade or seriousness rule,Grade >=3 AE mixed with serious AE or incompatible definition
+Causality,Both all-cause or both treatment-related,Broader causality category with clear metadata,All-cause directly compared with treatment-related without alignment
+Observation window,Same cutoff or clearly aligned safety window,Window not fully explicit but no identified conflicting cutoff,Clearly different or unalignable reporting windows

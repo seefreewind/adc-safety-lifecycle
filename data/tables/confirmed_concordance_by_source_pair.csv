@@ -1,0 +1,7 @@
+source_pair,analysis_tier,comparison_count,trial_count,safety_concept_count,mean_abs_diff_pp,median_abs_diff_pp,max_abs_diff_pp,zero_diff_count,within_1pp_count,within_2pp_count,within_5pp_count
+ClinicalTrials.gov vs FDA review,primary_candidate,1,1,1,0.80,0.80,0.80,0,1,1,1
+ClinicalTrials.gov vs FDA review,sensitivity_candidate,2,1,1,5.39,5.39,5.53,0,0,0,0
+publication vs ClinicalTrials.gov,primary_candidate,2,1,1,0.01,0.01,0.03,1,2,2,2
+publication vs ClinicalTrials.gov,sensitivity_candidate,2,1,1,5.89,5.89,6.53,0,0,0,0
+publication vs FDA review,primary_candidate,18,3,7,0.26,0.00,1.80,12,17,18,18
+publication vs FDA review,sensitivity_candidate,3,1,3,1.60,2.00,2.70,0,1,2,3

@@ -1,0 +1,52 @@
+# Background and Discussion candidate references
+
+These references were fetched from PubMed and mapped to specific Background/Discussion claims. Final submission formatting and claim-level verification are still required.
+
+24. Drago JZ, Modi S, Chandarlapaty S. Unlocking the potential of antibody-drug conjugates for cancer therapy. Nat Rev Clin Oncol. 2021;18(6):327-344. doi: 10.1038/s41571-021-00470-8. PMID: 33558752. DOI: 10.1038/s41571-021-00470-8. PubMed: https://pubmed.ncbi.nlm.nih.gov/33558752/
+   - Supports: ADC therapeutic index, approval landscape, clinical potential, systemic toxicity limitations
+25. Dumontet C, Reichert JM, Senter PD, Lambert JM, Beck A. Antibody-drug conjugates come of age in oncology. Nat Rev Drug Discov. 2023;22(8):641-661. doi: 10.1038/s41573-023-00709-2. PMID: 37308581. DOI: 10.1038/s41573-023-00709-2. PubMed: https://pubmed.ncbi.nlm.nih.gov/37308581/
+   - Supports: ADC mechanism, expanding oncology use, targets, payloads, and late-phase development
+26. Zarin DA, Tse T, Williams RJ, Califf RM, Ide NC. The ClinicalTrials.gov results database--update and key issues. N Engl J Med. 2011;364(9):852-60. doi: 10.1056/NEJMsa1012065. PMID: 21366476. DOI: 10.1056/NEJMsa1012065. PubMed: https://pubmed.ncbi.nlm.nih.gov/21366476/
+   - Supports: ClinicalTrials.gov results database structure and reporting issues
+27. Chen KY, Borglund EM, Postema EC, Dunn AG, Bourgeois FT. Reporting of clinical trial safety results in ClinicalTrials.gov for FDA-approved drugs: A cross-sectional analysis. Clin Trials. 2022;19(4):442-451. doi: 10.1177/17407745221093567. PMID: 35482320. DOI: 10.1177/17407745221093567. PubMed: https://pubmed.ncbi.nlm.nih.gov/35482320/
+   - Supports: ClinicalTrials.gov safety-result availability, completeness, and concordance for FDA-approved drugs
+28. Tang E, Ravaud P, Riveros C, Perrodeau E, Dechartres A. Comparison of serious adverse events posted at ClinicalTrials.gov and published in corresponding journal articles. BMC Med. 2015;13:189. doi: 10.1186/s12916-015-0430-4. PMID: 26269118. DOI: 10.1186/s12916-015-0430-4. PubMed: https://pubmed.ncbi.nlm.nih.gov/26269118/
+   - Supports: Comparison of serious adverse events in ClinicalTrials.gov and corresponding journal articles
+29. Hughes S, Cohen D, Jaggi R. Differences in reporting serious adverse events in industry sponsored clinical trial registries and journal articles on antidepressant and antipsychotic drugs: a cross-sectional study. BMJ Open. 2014;4(7):e005535. doi: 10.1136/bmjopen-2014-005535. PMID: 25009136. DOI: 10.1136/bmjopen-2014-005535. PubMed: https://pubmed.ncbi.nlm.nih.gov/25009136/
+   - Supports: Differences in serious-adverse-event reporting between registries and journal articles
+30. Zhu Y, Liu K, Wang K, Zhu H. Treatment-related adverse events of antibody-drug conjugates in clinical trials: A systematic review and meta-analysis. Cancer. 2023;129(2):283-295. doi: 10.1002/cncr.34507. PMID: 36408673. DOI: 10.1002/cncr.34507. PubMed: https://pubmed.ncbi.nlm.nih.gov/36408673/
+   - Supports: Treatment-related adverse events of antibody-drug conjugates across clinical trials
+31. Masters JC, Nickens DJ, Xuan D, Shazer RL, Amantea M. Clinical toxicity of antibody drug conjugates: a meta-analysis of payloads. Invest New Drugs. 2018;36(1):121-135. doi: 10.1007/s10637-017-0520-6. PMID: 29027591. DOI: 10.1007/s10637-017-0520-6. PubMed: https://pubmed.ncbi.nlm.nih.gov/29027591/
+   - Supports: Clinical toxicity of antibody-drug conjugates and payload-related safety patterns
+32. Tarantino P, Modi S, Tolaney SM, Cortés J, Hamilton EP, Kim SB, et al. Interstitial Lung Disease Induced by Anti-ERBB2 Antibody-Drug Conjugates: A Review. JAMA Oncol. 2021;7(12):1873-1881. doi: 10.1001/jamaoncol.2021.3595. PMID: 34647966. DOI: 10.1001/jamaoncol.2021.3595. PubMed: https://pubmed.ncbi.nlm.nih.gov/34647966/
+   - Supports: Interstitial lung disease associated with anti-ERBB2 antibody-drug conjugates
+33. Gabison EE, Rousseau A, Labetoulle M, Gazzah A, Besse B. Ocular adverse events associated with antibody-drug conjugates used in cancer: Focus on pathophysiology and management strategies. Prog Retin Eye Res. 2024;103:101302. doi: 10.1016/j.preteyeres.2024.101302. PMID: 39303762. DOI: 10.1016/j.preteyeres.2024.101302. PubMed: https://pubmed.ncbi.nlm.nih.gov/39303762/
+   - Supports: Ocular adverse events associated with antibody-drug conjugates
+34. Heist RS, Sands J, Bardia A, Shimizu T, Lisberg A, Krop I, et al. Clinical management, monitoring, and prophylaxis of adverse events of special interest associated with datopotamab deruxtecan. Cancer Treat Rev. 2024;125:102720. doi: 10.1016/j.ctrv.2024.102720. PMID: 38502995. DOI: 10.1016/j.ctrv.2024.102720. PubMed: https://pubmed.ncbi.nlm.nih.gov/38502995/
+   - Supports: Clinical management and monitoring of adverse events of special interest for datopotamab deruxtecan
+35. Rugo HS, Bianchini G, Cortes J, Henning JW, Untch M. Optimizing treatment management of trastuzumab deruxtecan in clinical practice of breast cancer. ESMO Open. 2022;7(4):100553. doi: 10.1016/j.esmoop.2022.100553. PMID: 35964548. DOI: 10.1016/j.esmoop.2022.100553. PubMed: https://pubmed.ncbi.nlm.nih.gov/35964548/
+   - Supports: Clinical management considerations for trastuzumab deruxtecan adverse events
+36. Junqueira DR, Zorzela L, Golder S, Loke Y, Gagnier JJ, Julious SA, et al. CONSORT Harms 2022 statement, explanation, and elaboration: updated guideline for the reporting of harms in randomized trials. J Clin Epidemiol. 2023;158:149-165. doi: 10.1016/j.jclinepi.2023.04.005. PMID: 37100738. DOI: 10.1016/j.jclinepi.2023.04.005. PubMed: https://pubmed.ncbi.nlm.nih.gov/37100738/
+   - Supports: CONSORT Harms 2022 reporting guideline for harms in randomized trials
+37. Thanarajasingam G, Minasian LM, Baron F, Cavalli F, De Claro RA, Dueck AC, et al. Beyond maximum grade: modernising the assessment and reporting of adverse events in haematological malignancies. Lancet Haematol. 2018;5(11):e563-e598. doi: 10.1016/S2352-3026(18)30051-6. PMID: 29907552. DOI: 10.1016/S2352-3026(18)30051-6. PubMed: https://pubmed.ncbi.nlm.nih.gov/29907552/
+   - Supports: Limitations of maximum-grade adverse-event reporting in hematologic malignancy trials
+38. Komorowski AS, MacKay HJ, Pezo RC. Quality of adverse event reporting in phase III randomized controlled trials of breast and colorectal cancer: A systematic review. Cancer Med. 2020;9(14):5035-5050. doi: 10.1002/cam4.3095. PMID: 32452660. DOI: 10.1002/cam4.3095. PubMed: https://pubmed.ncbi.nlm.nih.gov/32452660/
+   - Supports: Quality of adverse-event reporting in phase III breast and colorectal cancer trials
+39. Arnaud-Coffin P, Maillet D, Gan HK, Stelmes JJ, You B, Dalle S, et al. A systematic review of adverse events in randomized trials assessing immune checkpoint inhibitors. Int J Cancer. 2019;145(3):639-648. doi: 10.1002/ijc.32132. PMID: 30653255. DOI: 10.1002/ijc.32132. PubMed: https://pubmed.ncbi.nlm.nih.gov/30653255/
+   - Supports: Adverse-event reporting quality in randomized trials of immune checkpoint inhibitors
+40. Smith SM, Chang DR, Pereira A, Shah N, Gilron I, Katz NP, et al. Adherence to CONSORT harms-reporting recommendations in publications of recent analgesic clinical trials: an ACTTION systematic review. Pain. 2012;153(12):2415-2421. doi: 10.1016/j.pain.2012.08.009. PMID: 22985899. DOI: 10.1016/j.pain.2012.08.009. PubMed: https://pubmed.ncbi.nlm.nih.gov/22985899/
+   - Supports: Adherence to CONSORT harms-reporting recommendations in clinical-trial publications
+41. Wahby S, Fashoyin-Aje L, Osgood CL, Cheng J, Fiero MH, Zhang L, et al. FDA Approval Summary: Accelerated Approval of Sacituzumab Govitecan-hziy for Third-line Treatment of Metastatic Triple-negative Breast Cancer. Clin Cancer Res. 2021;27(7):1850-1854. doi: 10.1158/1078-0432.CCR-20-3119. PMID: 33168656. DOI: 10.1158/1078-0432.CCR-20-3119. PubMed: https://pubmed.ncbi.nlm.nih.gov/33168656/
+   - Supports: FDA approval summary example for sacituzumab govitecan and regulatory safety evidence
+42. Narayan P, Osgood CL, Singh H, Chiu HJ, Ricks TK, Chiu Yuen Chow E, et al. FDA Approval Summary: Fam-Trastuzumab Deruxtecan-Nxki for the Treatment of Unresectable or Metastatic HER2-Positive Breast Cancer. Clin Cancer Res. 2021;27(16):4478-4485. doi: 10.1158/1078-0432.CCR-20-4557. PMID: 33753456. DOI: 10.1158/1078-0432.CCR-20-4557. PubMed: https://pubmed.ncbi.nlm.nih.gov/33753456/
+   - Supports: FDA approval summary example for fam-trastuzumab deruxtecan in HER2-positive breast cancer
+43. Narayan P, Dilawari A, Osgood C, Feng Z, Bloomquist E, Pierce WF, et al. US Food and Drug Administration Approval Summary: Fam-Trastuzumab Deruxtecan-nxki for Human Epidermal Growth Factor Receptor 2-Low Unresectable or Metastatic Breast Cancer. J Clin Oncol. 2023;41(11):2108-2116. doi: 10.1200/JCO.22.02447. PMID: 36780610. DOI: 10.1200/JCO.22.02447. PubMed: https://pubmed.ncbi.nlm.nih.gov/36780610/
+   - Supports: FDA approval summary example for fam-trastuzumab deruxtecan in HER2-low breast cancer
+44. Luu K, Chu A, Chang B. A review of the novel tissue factor antibody-drug conjugate: Tisotumab vedotin. J Oncol Pharm Pract. 2023;29(2):441-449. doi: 10.1177/10781552221139775. PMID: 36415085. DOI: 10.1177/10781552221139775. PubMed: https://pubmed.ncbi.nlm.nih.gov/36415085/
+   - Supports: Tisotumab vedotin review and safety considerations
+45. Veeraballi S, Khawar Z, Aslam HM, Muzaffar M. Role of sacituzumab govitecan in solid tumors. J Oncol Pharm Pract. 2022;28(7):1617-1623. doi: 10.1177/10781552221092359. PMID: 35404158. DOI: 10.1177/10781552221092359. PubMed: https://pubmed.ncbi.nlm.nih.gov/35404158/
+   - Supports: Sacituzumab govitecan clinical role and safety context in solid tumors
+46. Sun W, Hu S, Wang X. Update of antibody-drug conjugates for hematological malignancies. Curr Opin Oncol. 2024;36(5):430-436. doi: 10.1097/CCO.0000000000001065. PMID: 39007226. DOI: 10.1097/CCO.0000000000001065. PubMed: https://pubmed.ncbi.nlm.nih.gov/39007226/
+   - Supports: Antibody-drug conjugates in hematologic malignancies and safety context
+47. Nicolò E, Zagami P, Curigliano G. Antibody-drug conjugates in breast cancer: the chemotherapy of the future?. Curr Opin Oncol. 2020;32(5):494-502. doi: 10.1097/CCO.0000000000000656. PMID: 32657795. DOI: 10.1097/CCO.0000000000000656. PubMed: https://pubmed.ncbi.nlm.nih.gov/32657795/
+   - Supports: Antibody-drug conjugates in breast cancer and treatment-development context

@@ -1,0 +1,8 @@
+safety_concept,jointly_reported_strata,directly_comparable_strata,directly_comparable_percent
+Any AE,4,3,75.0
+Grade >=3 AE,3,1,33.3
+Serious AE,16,6,37.5
+Fatal AE / mortality-related,22,2,9.1
+Discontinuation,3,2,66.7
+Interruption/delay,2,2,100.0
+Dose reduction,3,1,33.3

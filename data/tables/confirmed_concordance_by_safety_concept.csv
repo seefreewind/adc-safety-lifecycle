@@ -1,0 +1,11 @@
+ae_concept,analysis_tier,comparison_count,trial_count,safety_concept_count,mean_abs_diff_pp,median_abs_diff_pp,max_abs_diff_pp,zero_diff_count,within_1pp_count,within_2pp_count,within_5pp_count
+adverse_event_leading_to_discontinuation,primary_candidate,3,2,1,0.60,0.00,1.80,2,2,3,3
+any_adverse_event,primary_candidate,4,2,1,0.10,0.00,0.40,3,4,4,4
+any_adverse_event,sensitivity_candidate,1,1,1,0.10,0.10,0.10,0,1,1,1
+dose_interruption,primary_candidate,2,1,1,0.00,0.00,0.00,2,2,2,2
+dose_interruption,sensitivity_candidate,1,1,1,2.00,2.00,2.00,0,0,1,1
+dose_reduction,primary_candidate,2,1,1,0.00,0.00,0.00,2,2,2,2
+fatal_adverse_event,primary_candidate,3,2,1,0.27,0.00,0.80,2,3,3,3
+grade_3_or_higher_adverse_event,primary_candidate,2,1,1,0.30,0.30,0.40,0,2,2,2
+serious_adverse_event,primary_candidate,5,3,1,0.37,0.03,1.00,2,5,5,5
+serious_adverse_event,sensitivity_candidate,5,2,1,5.06,5.26,6.53,0,0,0,1
