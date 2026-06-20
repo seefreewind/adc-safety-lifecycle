@@ -33,8 +33,8 @@ GitHub 仓库已建立：`https://github.com/seefreewind/adc-safety-lifecycle`
 
 After acceptance of the Zenodo record, replace the placeholder with:
 
-`The derived analytic tables, comparability decisions, audit outputs, figure source files, and analysis code are available in Zenodo at https://zenodo.org/records/20768613. Copyrighted full-text articles, publisher supplementary files, and FDA source PDFs are not redistributed.`
+`The derived analytic tables, comparability decisions, audit outputs, figure source files, and analysis code are available in Zenodo at https://zenodo.org/records/20768613 and GitHub at https://github.com/seefreewind/adc-safety-lifecycle. Copyrighted full-text articles, publisher supplementary files, and FDA source PDFs are not redistributed.`
 
 ## 投稿稿中可替换的 Code Availability 文字
 
-`The custom code used to generate the analytic summaries, uncertainty estimates, audit outputs, and figures is available in the Zenodo record at https://zenodo.org/records/20768613.`
+`The custom code used to generate the analytic summaries, uncertainty estimates, audit outputs, and figures is available in the Zenodo record at https://zenodo.org/records/20768613 and in the GitHub repository at https://github.com/seefreewind/adc-safety-lifecycle.`
